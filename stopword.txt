@@ -1,0 +1,7 @@
+http
+https
+imgur
+com
+watch
+...
+www
